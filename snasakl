@@ -1,0 +1,13 @@
+
+
+
+
+
+
+} 
+.back-image1 {
+    background-image: url(./number\ 1.jpg);
+    background-position: cover;
+    background-attachment: fixed;
+}
+

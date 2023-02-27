@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+li {
+    list-style: none;
+    padding: 0px 34px;
+    display: inline;
+    
+}
+ul {
+    /* display: flex; */
+    padding: 25px;
+    
+   
+}
+header {
+    background-color: black;
+    color: white;
+
+}
+.leftarea {
+    color: red;
+    font-size: xx-large;
+    /* float: left; */
+    padding-left: 50px;
+    position: relative; 
+    bottom:1085px;      
+}
+.rightarea {
+    /* float: right; */
+    padding-right: 50px;
+    position: relative; 
+    bottom:1085px;                       
+}
+.button-signin{
+    background-color: red;
+    color: white;
+    height: 40px;
+    width: 60px;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.back-image1 {
+    
+}
+.conatainer {
+    display: flex;
+    justify-content: space-between;
+}
+.background-image {
+    /* background-image: url(./number\ 1.jpg); */
+    /* height: 500px; */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
